@@ -31,5 +31,6 @@
         android:layout_centerVertical="true"
         android:layout_marginTop="78dp"
         android:text="@string/Title"
+        android:textColor="@android:color/background_dark"
         android:textSize="40sp" />
 </RelativeLayout>
